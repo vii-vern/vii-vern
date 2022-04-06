@@ -1,0 +1,4 @@
+- Hey, it's Vivern
+- I'm a beginner to programming, but I do know most of HTML, some of CCS, and some of JS
+- I'm also into fitness and psychology
+- You can contact me via discord vivern#4079
